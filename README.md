@@ -101,40 +101,4 @@ Home Appliances · Doors & Furniture · Electronics · Automobile · Industrial 
    git clone https://github.com/<your-username>/<your-repo-name>.git
    cd <your-repo-name>
    ```
-2. Open `index.html` in your browser, **or** serve it with a local server:
-   ```bash
-   # Python
-   python -m http.server 8000
 
-   # or Node
-   npx serve .
-   ```
-3. Visit `http://localhost:8000`
-
-## Deployment
-
-The site is a static website and can be hosted on any static host (GitHub Pages, Netlify, Vercel, or traditional shared hosting). Deploy by uploading the project files to the web root of the host.
-
-## Contributing
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/your-change`
-3. Commit your changes: `git commit -m "Describe your change"`
-4. Push the branch: `git push origin feature/your-change`
-5. Open a Pull Request
-
-## Credits
-
-Website developed by [Terra Web Solutions](https://www.terrawebs.com/).
-
-## License
-
-All rights reserved © Honifill. The content, images and branding in this repository may not be copied or reused without permission.
-
-## Contact
-
-**Honifill**
-No 8/A, 8/B, 9/A, 9/B, Mehta Industrial Estate Rd, Machohalli, Hobali, Dasanapura, Bengaluru, Karnataka 560091
-
-✉️ [info@honifill.com](mailto:info@honifill.com)
-🌐 [honifill.com/contact.html](https://honifill.com/contact.html)
